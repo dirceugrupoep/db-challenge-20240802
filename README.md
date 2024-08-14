@@ -16,9 +16,10 @@ Com isso, teremos que trabalhar com várioas consultas utilizando conceitos como
  
 
 ## O projeto
- 
-- Criar as consultas utilizando a linguagem escolhida 
-- Entregar o código gerado do Teste
+
+- Implementar o código de criação de tabelas utilizando a linguagem escolhida;
+- Criar as consultas utilizando a linguagem escolhida ;
+- Entregar o código gerado do Teste.
 
 ### Modelo de Dados:
 
