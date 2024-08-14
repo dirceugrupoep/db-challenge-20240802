@@ -17,8 +17,7 @@ Com isso, teremos que trabalhar com várioas consultas utilizando conceitos como
 
 ## O projeto
 
-- Implementar o código de criação de tabelas utilizando a linguagem escolhida;
-- Criar as consultas utilizando a linguagem escolhida ;
+- Criar as consultas utilizando a linguagem escolhida;
 - Entregar o código gerado do Teste.
 
 ### Modelo de Dados:
@@ -53,6 +52,5 @@ Construir as seguintes consultas:
 ## Finalização e Instruções para a Apresentação
 
 1. Adicione o link do repositório com a sua solução no teste
-2. Adicione o link da apresentação do seu projeto no README.md.
-3. Verifique se o Readme está bom e faça o commit final em seu repositório;
-4. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
+2. Verifique se o Readme está bom e faça o commit final em seu repositório;
+3. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
