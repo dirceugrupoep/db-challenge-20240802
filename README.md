@@ -37,7 +37,6 @@ Construir as seguintes consultas:
 - Agrupar a quantidade de vendas que uma determinada Marca por Loja. 
 - Listar os Funcionarios que não estejam relacionados a um Pedido.
 
-
 ## Readme do Repositório
 
 - Deve conter o título do projeto
@@ -53,4 +52,9 @@ Construir as seguintes consultas:
 
 1. Adicione o link do repositório com a sua solução no teste
 2. Verifique se o Readme está bom e faça o commit final em seu repositório;
-3. Envie e aguarde as instruções para seguir. Sucesso e boa sorte. =)
+3. Envie e aguarde as instruções para seguir. Caso o teste tenha apresentação de vídeo, dentro da tela de entrega será possível gravar após adicionar o link do repositório. Sucesso e boa sorte. =)
+
+
+## Suporte
+
+Para tirar dúvidas sobre o processo envie uma mensagem diretamente a um especialista no chat da plataforma. 
